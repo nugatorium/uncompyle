@@ -52,7 +52,7 @@ import sys, os, getopt
 if sys.version[:3] != '2.7':
 	print >>sys.stderr, 'Error:  uncompyler requires Python 2.7.'
 	sys.exit(-1)
-from uncompyler import main, verify
+from uncompyle import main, verify
 import time
 from multiprocessing import Process, Queue, cpu_count
 from Queue import Empty
