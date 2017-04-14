@@ -2,7 +2,7 @@
                           uncompyle
         A Python 2.7 byte-code decompiler, written in Python 2.7
                           0.13
-                          2012-2-22
+                        2012-2-22
 
 Introduction
 ------------
@@ -93,6 +93,13 @@ Usage
 
 uncompyler -h		prints short usage
 uncompyler --help	prints long usage
+
+
+Operating Systems
+-----------------
+MAC OS X 10.12.4
+Ubuntu 16.04
+Most likely windows
 
 
 Known Bugs/Restrictions
